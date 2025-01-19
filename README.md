@@ -69,3 +69,5 @@ Run an experiment using PPO, training for 150,000 steps for each experiment as o
 ```bash
 python main_options.py experiments --algorithm ppo --Max_train_steps 150000
 ```
+
+#### Thanks to [XinJingHao](https://github.com/XinJingHao) for their PPO implementation.
